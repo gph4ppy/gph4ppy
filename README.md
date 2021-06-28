@@ -15,7 +15,7 @@ I'm 19 years old charismatic person, who loves creating IOS apps. During the fre
 &nbsp; macOS Monterey 12.0 (Beta) </br> 
 
 - **📱| iPhone:** </br> 
-&nbsp; iPhone SE (2020) </br> 
+   iPhone SE (2020) </br> 
 &nbsp; 128 GB of the memory </br> 
 &nbsp; iOS 15.0 (Beta #2) </br> 
 
