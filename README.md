@@ -2,7 +2,7 @@
 # Hi, I'm Jakub 🙋‍♂️
 I'm 19 years old charismatic person, who loves creating IOS apps. During the free time I make Hardstyle and Hardcore tracks. I'm working on MacBook Pro 13 2018 w/ TB, SE2020, Watch3.
 
--  👨‍💻| I am interested in programming applications on Apple devices - iOS, macOS and watchOS.
+-  👨‍💻 | I am interested in programming applications on Apple devices - iOS, macOS and watchOS.
 - ⌨️ | I use UIKit/Appkit and SwiftUI.
 - 🔨 | Focused on self-development.
 - 💡 | Mostly I try to create innovative apps, with unique ideas.
