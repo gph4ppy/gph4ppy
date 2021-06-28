@@ -9,7 +9,7 @@ I'm 19 years old charismatic person, who loves creating IOS apps. During the fre
 
 ### My devices:
 - **💻 | Mac:**
-MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports) </br> 
 Intel Core i5 quad-core CPU (2.3 GHz)
 8 GB 2133 MHz LPDDR3
 macOS Monterey 12.0 (Beta)
