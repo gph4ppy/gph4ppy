@@ -9,19 +9,17 @@ I'm 19 years old charismatic person, who loves creating IOS apps. During the fre
 
 ### My devices:
 - **💻 | Mac:** </br> 
-<div style="padding-left: 30px;">
-  MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports) </br> 
-  Intel Core i5 quad-core CPU (2.3 GHz) </br> 
-  8 GB 2133 MHz LPDDR3 </br> 
-  macOS Monterey 12.0 (Beta) </br> 
-</div>
+&nbsp;&nbsp;&nbsp; MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports) </br> 
+&nbsp;&nbsp;&nbsp; Intel Core i5 quad-core CPU (2.3 GHz) </br> 
+&nbsp;&nbsp;&nbsp; 8 GB 2133 MHz LPDDR3 </br> 
+&nbsp;&nbsp;&nbsp; macOS Monterey 12.0 (Beta) </br> 
 
 - **📱| iPhone:** </br> 
-   iPhone SE (2020) </br> 
-&nbsp; 128 GB of the memory </br> 
-&nbsp; iOS 15.0 (Beta #2) </br> 
+&nbsp;&nbsp;&nbsp; iPhone SE (2020) </br> 
+&nbsp;&nbsp;&nbsp; 128 GB of the memory </br> 
+&nbsp;&nbsp;&nbsp; iOS 15.0 (Beta #2) </br> 
 
 - **⌚️| Apple Watch:** </br> 
-&nbsp; Apple Watch Series 3 Nike Edition 38mm </br> 
-&nbsp; Black </br> 
-&nbsp; watchOS 8.0 (Beta #2) </br> 
+&nbsp;&nbsp;&nbsp; Apple Watch Series 3 Nike Edition 38mm </br> 
+&nbsp;&nbsp;&nbsp; Black </br> 
+&nbsp;&nbsp;&nbsp; watchOS 8.0 (Beta #2) </br> 
