@@ -18,5 +18,5 @@ I'm 19 years old charismatic person, who loves creating IOS apps. During the fre
 &nbsp;&nbsp;&nbsp;&nbsp; 64 GB of the memory </br> 
 
 - **⌚️| Apple Watch:** </br> 
-&nbsp;&nbsp;&nbsp;&nbsp; Apple Watch Series 3 Nike Edition 38mm </br> 
-&nbsp;&nbsp;&nbsp;&nbsp; Black </br>
+&nbsp;&nbsp;&nbsp;&nbsp; Apple Watch Series 6 44mm </br> 
+&nbsp;&nbsp;&nbsp;&nbsp; Blue </br>
