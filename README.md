@@ -1,6 +1,6 @@
 ![GithubBanner](https://user-images.githubusercontent.com/41966757/123677084-fbdef200-d844-11eb-8011-53ddde879738.png)
 # Hi, I'm Jakub 🙋‍♂️
-I'm 19 years old charismatic person, who loves creating IOS apps. During the free time I make Hardstyle and Hardcore tracks. I'm working on MacBook Pro 13 2018 w/ TB, iPhone 12 and Appe Watch S6.
+I'm 20 years old charismatic person, who loves creating IOS apps. During the free time I make Hardstyle and Hardcore tracks. I'm working on MacBook Pro 13 2018 w/ TB, iPhone 12 and Appe Watch S6.
 
 - 👨‍💻 | I am interested in programming applications on Apple devices - iOS, macOS and watchOS.
 - ⌨️ | I use UIKit/AppKit and SwiftUI.
