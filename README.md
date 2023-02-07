@@ -9,9 +9,9 @@ I'm 20 years old charismatic person, who loves creating IOS apps. During the fre
 
 ### My devices:
 - **💻 | Mac:** </br> 
-&nbsp;&nbsp;&nbsp;&nbsp; MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports) </br> 
-&nbsp;&nbsp;&nbsp;&nbsp; Intel Core i5 quad-core CPU (2.3 GHz) </br> 
-&nbsp;&nbsp;&nbsp;&nbsp; 8 GB 2133 MHz LPDDR3 </br>
+&nbsp;&nbsp;&nbsp;&nbsp; MacBook Air (13.6-inch, 2022) </br> 
+&nbsp;&nbsp;&nbsp;&nbsp; Apple M2 CPU </br> 
+&nbsp;&nbsp;&nbsp;&nbsp; 16 GB 2133 MHz LPDDR3 </br>
 
 - **📱| iPhone:** </br> 
 &nbsp;&nbsp;&nbsp;&nbsp; iPhone 12 </br> 
