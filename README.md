@@ -11,7 +11,7 @@ I'm 20 years old charismatic person, who loves creating IOS apps. During the fre
 - **💻 | Mac:** </br> 
 &nbsp;&nbsp;&nbsp;&nbsp; MacBook Air (13.6-inch, 2022) </br> 
 &nbsp;&nbsp;&nbsp;&nbsp; Apple M2 CPU </br> 
-&nbsp;&nbsp;&nbsp;&nbsp; 16 GB LPDDR5 </br>
+&nbsp;&nbsp;&nbsp;&nbsp; 16 GB LPDDR5 RAM </br>
 
 - **📱| iPhone:** </br> 
 &nbsp;&nbsp;&nbsp;&nbsp; iPhone 12 </br> 
